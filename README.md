@@ -4,7 +4,7 @@
 
 chmod u+x init_replit
 
-./init_replit
+./init_replitclear
 
 On Replit:
 
