@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123237協同產品設計實習 - 41123237 W3</title><link href="./" rel="alternate"></link><link href="./feeds/41123237-w3.atom.xml" rel="self"></link><id>./</id><updated>2024-04-11T09:01:54+08:00</updated><entry><title>41123237 W3</title><link href="./41123237%20W3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-04-11T09:01:54+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123237 W3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123237協同產品設計實習 - 41123237 W3</title><link href="./" rel="alternate"></link><link href="./feeds/41123237-w3.atom.xml" rel="self"></link><id>./</id><updated>2024-04-17T18:23:58+08:00</updated><entry><title>41123237 W3</title><link href="./41123237%20W3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-04-17T18:23:58+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123237 W3.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第三週教學內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第三週教學內容&lt;/p&gt;
+
 
 &lt;h1&gt;LaTeX 轉 pdf 機制&lt;/h1&gt;
-&lt;p&gt;學習Latex語法編寫中英並列的(Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)文章,且使用chatgpt協助語法編寫以及翻譯內容。&lt;/p&gt;</content><category term="41123237 W3"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;學習使用Latex語法編寫中英並列的(Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)文章,且使用chatgpt協助語法編寫以及翻譯內容。&lt;/p&gt;
+&lt;h1&gt;利用可攜程式編譯 LaTeX&lt;/h1&gt;
+&lt;p&gt;下載(需要密碼, 下載 167MB, 解開壓縮檔案後約 1GB) &lt;br&gt;
+下載&lt;a href="http://229.cycu.org/latex_images_github.7z"&gt;latex_images_github.7z&lt;/a&gt;(需要密碼) &lt;br&gt;
+協同產品設計實習分組期中報告 LaTeX 範本: &lt;br&gt;
+下載 cd2024_midterm&lt;a href="http://229.cycu.org/miktex-portable.7z"&gt;miktex-portable.7z&lt;/a&gt;_report_latex_ex.7z&lt;/p&gt;</content><category term="41123237 W3"></category><category term="網誌編寫"></category></entry></feed>
