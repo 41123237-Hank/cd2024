@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123237協同產品設計實習 - 41123237 W10</title><link href="./" rel="alternate"></link><link href="./feeds/41123237-w10.atom.xml" rel="self"></link><id>./</id><updated>2024-04-25T16:00:00+08:00</updated><entry><title>41123237 W10</title><link href="./41123237%20W10.html" rel="alternate"></link><published>2024-04-25T16:00:00+08:00</published><updated>2024-04-25T08:47:34+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./41123237 W10.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第十週內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第十週內容&lt;/p&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;請下載&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/41123237_nfu_edu_tw/EpnSw5gfw9ZLq8KWnm9EFgIBzsErrkSQoKyUua7nTI9Uwg?e=cFY2CV"&gt;cd2024_ball_balancing_platform_control_ref.7z&lt;/a&gt; &lt;br&gt; &lt;/li&gt;
+&lt;li&gt;閱讀後請將摘要內容放入個人與分組網誌中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;摘要&lt;/h1&gt;
+&lt;p&gt;在動態系統領域操作時，控制理論及其應用至關重要。對於固有不穩定或半穩定的系統，補償干擾和外部作用是必要的。通過建造一個實驗裝置作為理論的演示器，進一步比較源自牛頓力學的實際物理和電腦模擬結果。為了進行比較，需要設計一個滿足系統要求的滿意控制器。關於裝置和控制，引入一種比例-積分-微分控制器，用於平衡平台上的球體。進一步允許分析以確定穩定自然不穩定或半穩定系統的限制。還要檢查這些與理論期望之間的差異。
+論文中應用的控制是線性的類型，僅能在線性控制的範圍內正常運作。使用標準組件和微控制器，構建了一個裝置來保持平台上的球體。這是通過使用Arduino庫和開源代碼進行編程來實現的。因此，為了研究目的，查看該裝置是否能在控制的線性領域內正常運作。
+有了上述說明，本論文將首先通過計算機輔助程序來論述球在平台情境的理論模型。然後將理論結果與從物理建構獲得的結果進行比較。進一步檢查在考慮控制理論和系統實現時為何會出現差異。&lt;br&gt;
+關鍵詞— 機電系統、控制理論、平衡、PID、球體、平台、Arduino、伺服&lt;br&gt;&lt;/p&gt;
+&lt;h1&gt;原文&lt;/h1&gt;
+&lt;p&gt;Abstract
+Control theory and its applications are crucial when operating
+within the area of dynamic systems. Compensating
+for disturbances and external actions imposed on a given
+system being inherently unstable or semi-stable.
+Through the physical construction of a apparatus as
+a demonstrator of the theory further comparing the factual
+physical and computer simulated results derived from
+Newtonian mechanics. To enable comparison, designing a
+satisfactory controller capable of fulfilling the requirements
+set for the system is necessary. With regards to apparatus
+and control, the introduction of a proportional-integralderivative
+controller for a system balancing a ball on a platform.
+Further allowing for analysis to determine the limitations
+when stabilizing a naturally unstable or semi-stable
+system. Also, examine how these differ from the theoretical
+expectations.
+The control applied throughout the thesis is of the type
+linear, exclusively being able to operate properly within the
+linear spectrum of control. Using standard components and
+a microcontroller, a apparatus is constructed to maintain
+a ball on a platform. This is executed through programming
+with Arduino libraries and open source code. Hence,
+for research purposes, to see if the apparatus can operate
+satisfactory within the linear domain of control.
+With the aforementioned stated, this thesis will first
+cover the theoretical model of the ball on platform scenario
+through computer aided programs. Then compare the theoretical
+results with the results acquired from a physical
+construction. Further examine why differences occur considering
+control theory and system implementation.
+Keywords— mechatronics, control theory, balancing, PID,
+ball, platform, Arduino, servo
+iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="網誌編寫"></category></entry></feed>
