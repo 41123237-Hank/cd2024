@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123237協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-09T16:00:00+08:00</updated><entry><title>41123237 W12</title><link href="./41123237%20W12.html" rel="alternate"></link><published>2024-05-09T16:00:00+08:00</published><updated>2024-05-09T08:26:21+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-09:./41123237 W12.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第十二週內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123237協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-16T06:24:06+08:00</updated><entry><title>41123237 W12</title><link href="./41123237%20W12.html" rel="alternate"></link><published>2024-05-09T16:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-09:./41123237 W12.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第十二週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第十二週內容&lt;/p&gt;
 
 
@@ -11,10 +11,11 @@
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123237_nfu_edu_tw/EfSN0KCKDXJPgV0RdjpsgWoBJmPpfEUNhtGKALkES4QmIg?e=AAw450"&gt;NX零件圖檔&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123237_nfu_edu_tw/ESqdxQnowhtDkCRMYETWOdIB_xPO8G6YGgkl394lWAgYlA?e=zoWauU"&gt;NX繪製過程&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
 &lt;h1&gt;參考檔案:  &lt;br&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123237_nfu_edu_tw/Eb4na_0GOf1Hhn47GqkxsbwB7B9D5_eyyyodcFJ-THAK-Q?e=kg91mm"&gt;參考零件檔&lt;/a&gt; &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W12"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W10</title><link href="./41123237%20W10.html" rel="alternate"></link><published>2024-04-25T16:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./41123237 W10.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第十週內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123237_nfu_edu_tw/Eb4na_0GOf1Hhn47GqkxsbwB7B9D5_eyyyodcFJ-THAK-Q?e=kg91mm"&gt;參考零件檔&lt;/a&gt; &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W12"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W10</title><link href="./41123237%20W10.html" rel="alternate"></link><published>2024-04-25T16:00:00+08:00</published><updated>2024-05-16T06:24:06+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./41123237 W10.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第十週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第十週內容&lt;/p&gt;
 
 
+&lt;h1&gt;W10 實習的任務二:&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;請下載&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/41123237_nfu_edu_tw/EpnSw5gfw9ZLq8KWnm9EFgIBzsErrkSQoKyUua7nTI9Uwg?e=cFY2CV"&gt;cd2024_ball_balancing_platform_control_ref.7z&lt;/a&gt; &lt;br&gt; &lt;/li&gt;
 &lt;li&gt;閱讀後請將摘要內容放入個人與分組網誌中&lt;/li&gt;
@@ -58,7 +59,32 @@ construction. Further examine why differences occur considering
 control theory and system implementation.
 Keywords— mechatronics, control theory, balancing, PID,
 ball, platform, Arduino, servo
-iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W9</title><link href="./41123237%20W9.html" rel="alternate"></link><published>2024-04-25T16:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./41123237 W9.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程期中考週內容&lt;/p&gt;
+iii&lt;/p&gt;
+&lt;h1&gt;各篇論文要點摘要：&lt;/h1&gt;
+&lt;p&gt;論文一：Construction and theoretical study of a ball balancing platform &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;探討自動控制理論在穩定動態系統時的局限性，以球體平衡平台為例。 建立球體平衡平台的理論模型，並與實際搭建的平台進行比較。 分析理論與實際結果之間的差異，探討控制理論與系統實施的挑戰。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;結論： &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;線性控制可以實現球體平衡平台的良好性能，但存在靜態誤差。 理論與實際結果的差異主要來自於物理模型的誤差和電子元件的非理想特性。 穩定動態系統的性能受限於狀態調整的靈活性、控制器設計和輸入數據的準確性。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;論文二：A real time control system for balancing a ball on a platform with FPGA parallel implementation &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;提出基於 PID 控制器的解決方案，以提高球體在平台上的位置調節精度。 使用 FPGA 實現平行計算，以提高系統速度和性能。 開發球體平衡平台的轉移函數，並合成 PID 控制器。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;結論： &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;透過 FPGA 平行計算實現的 PID 控制器能有效提高球體位置調節精度。 該方案可應用於控制具有多個參數的高速物件。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;論文三：Simulation and Experimental Study of Ball Position Control at Biaxial Platform using State Space Approach &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;設計和比較三種控制結構，用於自動穩定球體在平台上的位置和軌跡追踪：PD 控制器、狀態空間反饋和帶狀態空間回饋的狀態空間觀測器。 使用牛頓法推導球體平衡平台的數學模型，並設計直流電機位置迴路控制。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;結論： &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;三種控制結構均能實現穩定控制，但狀態空間觀測器具有最佳性能。 該研究建立了一個教育平台，用於向非技術人員解釋基本控制系統原理。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;論文四：Design and Implementation a Ball Balancing System for Control Theory Course &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;開發一個球體平衡系統，使用微控制器和控制演算法來調節球體在梁上的平衡。 利用超聲波傳感器獲取球體位置，並使用 PID 控制演算法調整梁的角度。 開發介面程式，將即時位置曲線繪製在 MATLAB 中。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;結論： &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;球體平衡系統是一個低成本的教育工具，可用於教授控制理論的應用。 該系統允許學生將理論知識應用於實踐中，並了解封閉迴路回饋系統和 PID 演算法的原理。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;論文五：Ball on the plate balancing control system &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;設計一個二自由度球體平衡實驗平台，用於測試和驗證平衡控制演算法。 使用電阻式觸摸屏獲取球體位置數據，使用步進電機和位置傳感器控制平台傾斜角度。 設計基於 AVR 微控制器的雙環下屬控制系統，使用 PID 控制器維持球體平衡。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;結論： &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;該系統使用步進電機替代伺服電機，並無需外部電腦進行圖像處理，具有成本效益和易於控制的優勢。 未來計劃改進球體位置回饋信號的濾波，以提高控制系統的速度和品質。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;論文六：2D Ball Balancer Control using QUARC &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;使用 QUARC 軟體設計和實現球體在二維平台上的位置控制。 設計 PD 和 PID 控制器，並探討設定點權重和積分器抗飽和等控制技術。 使用攝像頭讀取球體位置，並進行校準和轉換。 &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;結論： &lt;br&gt;&lt;/p&gt;
+&lt;p&gt;PD 和 PID 控制器均能實現球體位置控制，但 PID 控制器在跟踪斜坡和正弦參考信號時具有更好的性能。 該實驗涵蓋了建模、控制器設計、模擬和實施等多個控制系統的關鍵步驟，為學生提供了寶貴的學習經驗。 &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W10"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W9</title><link href="./41123237%20W9.html" rel="alternate"></link><published>2024-04-25T16:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-25:./41123237 W9.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程期中考週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程期中考週內容&lt;/p&gt;
 
 
@@ -66,7 +92,7 @@ iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="
 &lt;p&gt;&lt;a href="https://youtu.be/WHtxDBfq7F8"&gt;期中統整影片&lt;/a&gt; &lt;br&gt;
 * 使用github codespaces 更新網誌內容 &lt;br&gt;
 * 學習latex程式編寫翻譯文章 &lt;br&gt;
-* 使用AI協助課程影片編寫字幕 &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W9"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W4</title><link href="./41123237%20W4.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./41123237 W4.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第四週教學內容&lt;/p&gt;
+* 使用AI協助課程影片編寫字幕 &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W9"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W4</title><link href="./41123237%20W4.html" rel="alternate"></link><published>2024-04-18T11:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-18:./41123237 W4.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第四週教學內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第四週教學內容&lt;/p&gt;
 
 
@@ -74,7 +100,7 @@ iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="
 &lt;p&gt;利用Latex語法編寫翻譯的odoo文章&lt;a href="https://github.com/41123237-Hank/cd2024/files/14943855/text.pdf"&gt;odoo文章翻譯&lt;/a&gt; &lt;br&gt;
 * 負責的頁數為1-30頁 &lt;br&gt;
 * &lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123237_nfu_edu_tw/EaqUNCZj3G5Auois-mKw3FoB8nGZvEN0sNOMIK00QE3zHQ?e=wGMvfD"&gt;latex文件檔&lt;/a&gt; &lt;br&gt;
-* &lt;a href="https://nfuedu-my.sharepoint.com/:b:/g/personal/41123237_nfu_edu_tw/ES24znc-o9VNpYwMr8bOkFIBtHtEaw_a8Qz2tap9js3upQ?e=40q9wx"&gt;Odoo 參考文章&lt;/a&gt; &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W4"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W5</title><link href="./41123237%20W5.html" rel="alternate"></link><published>2024-04-17T11:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-17:./41123237 W5.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第五週內容&lt;/p&gt;
+* &lt;a href="https://nfuedu-my.sharepoint.com/:b:/g/personal/41123237_nfu_edu_tw/ES24znc-o9VNpYwMr8bOkFIBtHtEaw_a8Qz2tap9js3upQ?e=40q9wx"&gt;Odoo 參考文章&lt;/a&gt; &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W4"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W5</title><link href="./41123237%20W5.html" rel="alternate"></link><published>2024-04-17T11:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-17:./41123237 W5.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第五週內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第五週內容&lt;/p&gt;
 
 
@@ -91,7 +117,7 @@ iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="
 &lt;h1&gt;字幕逐字稿&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123237_nfu_edu_tw/EcSZ5IVh0RJNjwZfcndFZzEBqv_XKAo5oKIWOaaQB8OcEg?e=93eXme"&gt;第7&lt;/a&gt; &lt;br&gt;
 &lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123237_nfu_edu_tw/EVC9jlAcy9lPq_6QYXscFzYBM18lSCbTtizPIsa7JZ-sPA?e=MfXDXc"&gt;第8&lt;/a&gt; &lt;br&gt;
-&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123237_nfu_edu_tw/EY-qpHfZBgZMspSPBU2zYxkB4keEfbSOnsxKCd-oko11bQ?e=HYvrKL"&gt;第9&lt;/a&gt; &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W5"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W3</title><link href="./41123237%20W3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123237 W3.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第三週教學內容&lt;/p&gt;
+&lt;a href="https://nfuedu-my.sharepoint.com/:t:/g/personal/41123237_nfu_edu_tw/EY-qpHfZBgZMspSPBU2zYxkB4keEfbSOnsxKCd-oko11bQ?e=HYvrKL"&gt;第9&lt;/a&gt; &lt;br&gt;&lt;/p&gt;</content><category term="41123237 W5"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W3</title><link href="./41123237%20W3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123237 W3.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第三週教學內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第三週教學內容&lt;/p&gt;
 
 
@@ -101,7 +127,7 @@ iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="
 &lt;p&gt;下載(需要密碼, 下載 167MB, 解開壓縮檔案後約 1GB) &lt;br&gt;
 下載&lt;a href="http://229.cycu.org/latex_images_github.7z"&gt;latex_images_github.7z&lt;/a&gt;(需要密碼) &lt;br&gt;
 協同產品設計實習分組期中報告 LaTeX 範本: &lt;br&gt;
-下載 cd2024_midterm&lt;a href="http://229.cycu.org/miktex-portable.7z"&gt;miktex-portable.7z&lt;/a&gt;_report_latex_ex.7z&lt;/p&gt;</content><category term="41123237 W3"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W2</title><link href="./41123237%20W2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123237 W2.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第二週教學內容&lt;/p&gt;
+下載 cd2024_midterm&lt;a href="http://229.cycu.org/miktex-portable.7z"&gt;miktex-portable.7z&lt;/a&gt;_report_latex_ex.7z&lt;/p&gt;</content><category term="41123237 W3"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W2</title><link href="./41123237%20W2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123237 W2.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第二週教學內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第二週教學內容&lt;/p&gt;
 
 
@@ -110,7 +136,7 @@ iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="
 &lt;h1&gt;利用 Codespaces 維護倉儲與網站&lt;/h1&gt;
 &lt;p&gt;學習如何使用Codespaces來維護倉儲與網站&lt;/p&gt;
 &lt;h1&gt;設定網誌&lt;/h1&gt;
-&lt;p&gt;透過教學影片了解網誌如何撰寫,持續熟悉中&lt;/p&gt;</content><category term="41123237 W2"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W1</title><link href="./41123237%20W1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123237 W1.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第一週教學內容&lt;/p&gt;
+&lt;p&gt;透過教學影片了解網誌如何撰寫,持續熟悉中&lt;/p&gt;</content><category term="41123237 W2"></category><category term="網誌編寫"></category></entry><entry><title>41123237 W1</title><link href="./41123237%20W1.html" rel="alternate"></link><published>2024-02-22T11:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-22:./41123237 W1.html</id><summary type="html">&lt;p&gt;2024 協同產品設計實習課程第一週教學內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 協同產品設計實習課程第一週教學內容&lt;/p&gt;
 
 
@@ -119,7 +145,7 @@ iii&lt;/p&gt;</content><category term="41123237 W10"></category><category term="
 &lt;h1&gt;需下載的可攜套件檔案&lt;/h1&gt;
 &lt;p&gt;下載可攜程式環境:&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123237_nfu_edu_tw/Ed81YIuWXjBNsx0x3BzSgBMB4HEplpzgOcwYBxA2zSrd9g?e=RT1ohK"&gt;portable_2024.7z&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;下載&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/41123237_nfu_edu_tw/EUu58uL4k9ZLugUW6v652eIBWom7fZRMAz4p13s3PnWETQ?e=b83kJM"&gt;miktex-portable.7z&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
-&lt;h1&gt;設定 Github 帳號的雙重認證&lt;/h1&gt;</content><category term="41123237 W1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-09T08:01:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h1&gt;設定 Github 帳號的雙重認證&lt;/h1&gt;</content><category term="41123237 W1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-16T06:10:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
