@@ -59,7 +59,7 @@
 <meta property="og:url" content="./41123237 W3.html"/>
 <meta property="og:type" content="article"/>
 <meta property="article:published_time" content="2024-03-07 11:00:00+08:00"/>
-<meta property="article:modified_time" content="2024-06-06 06:25:03.938516+08:00"/>
+<meta property="article:modified_time" content="2024-06-06 07:37:35.096055+08:00"/>
 <meta property="article:author" content="./author/kmol.html">
 <meta property="article:section" content="41123237 W3"/>
 <meta property="article:tag" content="網誌編寫"/>
@@ -74,7 +74,7 @@
   "name": "41123237 W3",
   "headline": "41123237 W3",
   "datePublished": "2024-03-07 11:00:00+08:00",
-  "dateModified": "2024-06-06 06:25:03.938516+08:00",
+  "dateModified": "2024-06-06 07:37:35.096055+08:00",
   "author": {
     "@type": "Person",
     "name": "kmol",
@@ -241,6 +241,34 @@ init_mathjax();
 下載<a href="http://229.cycu.org/latex_images_github.7z">latex_images_github.7z</a>(需要密碼) <br>
 協同產品設計實習分組期中報告 LaTeX 範本: <br>
 下載 cd2024_midterm<a href="http://229.cycu.org/miktex-portable.7z">miktex-portable.7z</a>_report_latex_ex.7z</p>
+<h1>Latex語法</h1>
+<p>%開頭= <br>
+\documentclass[12pt,a4paper]{report} %紙張設定 <br>
+\usepackage{xeCJK}%中文字體模組 <br>
+\usepackage{graphicx}%插入圖片套件 <br>
+\usepackage{tocbibind}%自動添加目錄和參考文獻到目錄中套件 <br>
+\usepackage{hyperref}%生成\begin{center}超連結模組 <br></p>
+<p>% 在 Windows 可以使用系統所安裝的字型 <br>
+\setCJKmainfont{標楷體}%設定中文字體 <br>
+\newfontfamily\sectionef{Times New Roman}%設定英文字體 <br></p>
+<p>%基本功能= <br>
+*只要有\begin{}都要加\end{} <br></p>
+<p>\begin{document}%正文開始 \end{document} <br>
+\begin{titlepage}%標題開始 \end{titlepage} <br>
+\begin{center}%文字置中 \end{center} <br>
+\large\texbf{}%字體加黑加粗 <br></p>
+<p>\ 換行 <br>
+\+空一行=空一行 <br></p>
+<p>%圖片插入 <br>
+= <br>
+%加入01.png的圖片 <br>
+\begin{figure}[htbp] <br>
+  \centering %圖片置中 <br>
+  \includegraphics[]{image/01.png}%插入在image資料夾下的01.png <br>
+  \label{fig:1} <br>
+\end{figure}\ <br></p>
+<h1>心得</h1>
+<p>初次使用latex語法製做報告,以往一直認為報告都是使用ppt或word來製做,沒想到還能使用程式語法來生成,剛開始對於語法不熟,幸好有同學協助整理語法,讓我們製做過程更加快速。</p>
             </section>
 
             <section class="post-info">
